@@ -36,6 +36,7 @@ gem 'font-awesome-rails'
 gem 'carrierwave'
 gem 'mini_magick'
 gem 'figaro'
+gem 'fog-aws'
 gem 'aasm'
 gem 'letter_opener', group: :development
 group :development, :test do
